@@ -1,0 +1,8 @@
+相信大家在网上搜索爬虫学习资料的时候经常会看到两个单词，crawler和scraper，这两个单词翻译成中文都叫爬虫，老外们似乎把这两个词分得很清。
+这一节我们来讲讲crawler和scraper的区别：
+crawler主要实现在多个网页之间的跳转，而scraper主要用于收集网页中的信息。
+通常爬虫会兼具这两个功能，下面我们来看一个将crawler和scraper分开的实例：爬取中国大学MOOC网站的课程信息
+
+crawler部分：
+
+scraper部分：
